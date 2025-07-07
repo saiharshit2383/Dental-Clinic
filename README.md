@@ -35,7 +35,7 @@ A comprehensive web-based dental center management system built with React, Type
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/saiharshit2383/Dental-Clinic.git
    cd dental-center-management
    ```
 
